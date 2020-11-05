@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>vreddyone Releases Nexus Repository</name>
-	      <url>http://65.0.21.199:8081/repository/fipkart_releases/</url>
+	      <url>http://13.235.71.235:8081/repository/fipkart_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>vreddyone Snapshot Nexus Repository </name>
-	      <url>http://65.0.21.199:8081/repository/flipkart_snapshot/</url>
+	      <url>http://13.235.71.235:8081/repository/flipkart_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
